@@ -1,6 +1,6 @@
 <h1>SnusCrack 🚀</h1>
 
-<p><strong>SnusCrack</strong> est un outil de recherche puissant pour trouver des informations sensibles à partir de diverses sources. Utilisez-le pour rechercher par email, nom d'utilisateur, dernière IP, hash, mot de passe ou nom.</p>
+<p><strong>SnusCrack</strong> est un outil de recherche puissant pour trouver des informations sensibles à partir de diverses sources. Utilisez-le pour rechercher par email, nom d'utilisateur, Adresse IP, hash, mot de passe ou nom.</p>
 
 <h2>Usage 📖</h2>
 
