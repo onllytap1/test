@@ -18,7 +18,7 @@
 <ul>
 <li>--email : Rechercher par email.</li>
 <li>--username : Rechercher par nom d'utilisateur.</li>
-<li>--lastip : Rechercher par dernière IP.</li>
+<li>--lastip : Rechercher par Adresse IP.</li>
 <li>--hash : Rechercher par hash.</li>
 <li>--password : Rechercher par mot de passe.</li>
 <li>--name : Rechercher par nom.</li>
